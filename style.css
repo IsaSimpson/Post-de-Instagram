@@ -1,0 +1,40 @@
+body {
+    background-color: aliceblue;
+}
+
+.container{
+    width: 600px;
+    margin: 0 auto;
+}
+.post{
+    border: 1px solid black;
+    background-color: white;
+
+}
+.post-header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+img{
+    width:100%;
+}
+h2{
+    position: relative; top: 0px; left: -211px; 
+}
+.fa-ellipsis-v{
+    position: relative; top: 0px; left: -20px;
+}
+.fa-html5{
+    position: relative; top: 0px; left: 10px;
+}
+.icons{
+    align-items: flex-start; margin-left: 1%;
+}
+
+.post-footer{
+    align-items:flex-start; margin-left: 1%;
+}
+.fa-bookmark{
+    position:relative; left:77%;
+}
